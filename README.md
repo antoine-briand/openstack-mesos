@@ -55,17 +55,18 @@ module "mesos" {
     
     ```
     # terraform get
-    Get: file:///Users/Clare/devops/terraform/openstack-mesos/mesos/keypair
-    Get: file:///Users/Clare/devops/terraform/openstack-mesos/mesos/instances
     ```
   * Executing Plan
-  ```
-  # terrafrom plan
-  ```
+    
+    ```
+    # terrafrom plan
+    ```
   * Applying Plan
-  ```
-  # terraform apply
-  ```
+    
+    ```
+    # terraform apply
+    ```
+  
   If all are right, your cluster can be built successfully. 
 
 *Note: Please install Terraform in your enviroment, more please refer to [Terrafrom ](https://www.terraform.io)*.
